@@ -1,7 +1,7 @@
 - 👋 <h1>Hello I am Swapnil Chavan</h1>
 - <h2>Full Stack Web Developer</h2>
 -
-  ![alt text](https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4726hzq9hqjercu9irkgr9nsqhazw34ewwhvcxk37a&rid=giphy.gif&ct=g)
+  ![alt text]([https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4726hzq9hqjercu9irkgr9nsqhazw34ewwhvcxk37a&rid=giphy.gif&ct=g](https://www.webskittersacademy.in/wp-content/uploads/2015/08/Web-Developer-skill.jpg))
 - 🌱 I’m currently learning MERN stack
 - 📫 How to reach me chavanswapnil822@gmail.com
 <br/>
@@ -28,9 +28,3 @@
 </p>
   
 <h3>My Contributions</h3>
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=timcreative&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=timcreative&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timcreative&layout=compact&theme=cobalt&hide_border=true" />
