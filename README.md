@@ -1,7 +1,6 @@
 - 👋 <h1>Hello I am Swapnil Chavan</h1>
 - <h2>Full Stack Web Developer</h2>
--
-  ![alt text](https://www.webskittersacademy.in/wp-content/uploads/2015/08/Web-Developer-skill.jpg)
+-<img src="https://www.webskittersacademy.in/wp-content/uploads/2015/08/Web-Developer-skill-825x469.jpg" />
 - 🌱 I’m currently learning MERN stack
 - 📫 How to reach me chavanswapnil822@gmail.com
 <br/>
