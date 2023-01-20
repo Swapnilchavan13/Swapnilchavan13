@@ -29,4 +29,4 @@
 <h3>My Contributions</h3>
 
 ![Swapnil's GitHub stats](https://github-readme-stats.vercel.app/api?username=swapnilchavan13&show_icons=true&theme=radical)
-![Swapnil's GitHub stats](https://github-readme-stats.vercel.app/api?username=swapnilchavan13&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swapnilchavan13)](https://github.com/swapnilchavan13/github-readme-stats)
