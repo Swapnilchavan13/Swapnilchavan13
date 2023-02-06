@@ -1,5 +1,5 @@
 -<h1 align="center">
-    <img src="https://media.tenor.com/cI3eAVLXj48AAAAC/hello-world.gif" >
+    <img src="https://cdna.artstation.com/p/assets/images/images/029/049/266/original/ricardo-braga-typing.gif?1596300272" > </br>
     Hi <img src='https://github.com/UtkarshPathrabe/UtkarshPathrabe/blob/main/assets/wave.gif?raw=true' height='26' alt='there'>, I'm Swapnil Chavan
 </h1>
 - <h2 align="center">Full Stack Web Developer</h2>
