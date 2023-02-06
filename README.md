@@ -1,5 +1,6 @@
 - <h1>Hello I am Swapnil Chavan</h1>
 - <h2>Full Stack Web Developer</h2>
+- <h3>👨‍💻 I’m currently working on web development technologies like JavaScript, React, MERN Stack</h3>
 -<img src="https://www.approvedcourse.com/wp-content/uploads/2021/06/Full-Stack-Developer.png" />
 - 🌱 I’m currently learning MERN stack
 - 📫 How to reach me chavanswapnil822@gmail.com
