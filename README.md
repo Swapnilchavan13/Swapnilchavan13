@@ -39,5 +39,13 @@
 </p>
   
 <h3>My Contributions</h3> 
-![Swapnil's GitHub stats](https://github-readme-stats.vercel.app/api?username=swapnilchavan13&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swapnilchavan13)](https://github.com/swapnilchavan13/github-readme-stats)
+
+<p align="center" style='margin: 8px 4px;'>
+    <img src="https://github-readme-stats.vercel.app/api?username=swapnilchavan13&show_icons=true&locale=en&theme=gruvbox" alt="swapnil" />
+</p>
+
+<p align="center" style='margin: 8px 4px;'>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=swapnilchavan13&theme=gruvbox" alt="swapnil" />
+</p>
+
+![Profile Stats](https://activity-graph.herokuapp.com/graph?username=swapnilchavan13&theme=chartreuse-dark)  
