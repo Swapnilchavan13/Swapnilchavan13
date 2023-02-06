@@ -1,5 +1,5 @@
 -<h1 align="center">
-    <img src="https://cdna.artstation.com/p/assets/images/images/029/049/266/original/ricardo-braga-typing.gif?1596300272" > </br>
+    <img style= 'width:400px' src="https://cdna.artstation.com/p/assets/images/images/029/049/266/original/ricardo-braga-typing.gif?1596300272" > </br>
     Hi <img src='https://github.com/UtkarshPathrabe/UtkarshPathrabe/blob/main/assets/wave.gif?raw=true' height='26' alt='there'>, I'm Swapnil Chavan
 </h1>
 - <h2 align="center">Full Stack Web Developer</h2>
@@ -38,7 +38,6 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
   
-<h3>My Contributions</h3>
-
+<h3>My Contributions</h3> 
 ![Swapnil's GitHub stats](https://github-readme-stats.vercel.app/api?username=swapnilchavan13&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swapnilchavan13)](https://github.com/swapnilchavan13/github-readme-stats)
