@@ -1,5 +1,15 @@
-- <h1>Hello I am Swapnil Chavan</h1>
+-<h1 align="center">
+    Hi <img src='./assets/wave.gif' height='26' alt='there'>, I'm Swapnil Chavan
+</h1>
 - <h2>Full Stack Web Developer</h2>
+- <h3 align='center' style='margin: 16px 4px;'>
+    <a href='https://swapnilchavan13.github.io/'>My Portfolio Website</a>
+</h3>
+
+<h3 align="center">
+   Full stack developer with experience in developing full-stack web applications using </br>
+   MongoDB, Express, React, and Node.js.
+</h3>
 -<img src="https://www.approvedcourse.com/wp-content/uploads/2021/06/Full-Stack-Developer.png" />
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React, MERN Stack
 - 📫 How to reach me chavanswapnil822@gmail.com
