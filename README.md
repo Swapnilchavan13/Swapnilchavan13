@@ -1,7 +1,7 @@
 -<h1 align="center">
     Hi <img src='https://github.com/UtkarshPathrabe/UtkarshPathrabe/blob/main/assets/wave.gif?raw=true' height='26' alt='there'>, I'm Swapnil Chavan
 </h1>
-- <h2 align="center>Full Stack Web Developer</h2>
+- <h2 align="center">Full Stack Web Developer</h2>
 - <h3 align='center' style='margin: 16px 4px;'>
     <a href='https://swapnilchavan13.github.io/'>My Portfolio Website</a>
 </h3>
