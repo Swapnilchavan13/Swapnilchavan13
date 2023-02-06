@@ -1,5 +1,5 @@
 -<h1 align="center">
-    Hi <img src='./assets/wave.gif' height='26' alt='there'>, I'm Swapnil Chavan
+    Hi <img src='https://github.com/UtkarshPathrabe/UtkarshPathrabe/blob/main/assets/wave.gif?raw=true' height='26' alt='there'>, I'm Swapnil Chavan
 </h1>
 - <h2>Full Stack Web Developer</h2>
 - <h3 align='center' style='margin: 16px 4px;'>
