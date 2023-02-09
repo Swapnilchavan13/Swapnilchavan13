@@ -1,9 +1,13 @@
--<h1 align="center">
-    <img style= 'width:400px' src="https://cdna.artstation.com/p/assets/images/images/029/049/266/original/ricardo-braga-typing.gif?1596300272" > </br>
-    Hi <img src='https://github.com/UtkarshPathrabe/UtkarshPathrabe/blob/main/assets/wave.gif?raw=true' height='26' alt='there'>, I'm Swapnil Chavan
+<h1 align="center">
+    Hi <img src='https://github.com/UtkarshPathrabe/UtkarshPathrabe/blob/main/assets/wave.gif?raw=true' height='26' alt='there'>, I'm Swapnil Chavan </br> 
+  <a href="url"><img src="https://cdna.artstation.com/p/assets/images/images/029/049/266/original/ricardo-braga-typing.gif?1596300272" height="250" width="250" style="border-radius:30%"></a>
 </h1>
-- <h2 align="center">Full Stack Web Developer</h2>
-- <h3 align='center' style='margin: 16px 4px;'>
+ <h2 align="center">Full Stack Web Developer</h2>
+ <h3 align="center">
+I am a passionate and driven web developer with a focus on MERN stack development. I have completed my Full-stack web development cource in Masai School and have a solid foundation in web development concepts and practices. During my course, I have honed my skills in JavaScript, MongoDB, Express, React, and Node.js and am confident in my ability to build scalable and efficient web applications. I am a quick learner, detail-oriented, and always strive to produce high-quality work. I am excited to start my career as a MERN full stack web developer and look forward to the opportunity to bring my skills and passion to your team.
+</h3>
+ 
+ <h3 align='center' style='margin: 16px 4px;'>
     <a href='https://swapnilchavan13.github.io/'>My Portfolio Website</a>
 </h3>
 
