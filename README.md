@@ -48,4 +48,9 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=swapnilchavan13&theme=gruvbox" alt="swapnil" />
 </p>
 
-![Profile Stats](https://activity-graph.herokuapp.com/graph?username=swapnilchavan13&theme=chartreuse-dark)  
+![Profile Stats](https://activity-graph.herokuapp.com/graph?username=Swapnilchavan13&theme=chartreuse-dark)  
+
+
+<p align="center" style='margin: 8px 4px;'>
+    <img src="https://github.com/Swapnilchavan13/Swapnilchavan13/blob/output/github-contribution-grid-snake.svg" alt="Swapnil stats snake" />
+</p>
