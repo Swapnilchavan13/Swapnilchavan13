@@ -20,6 +20,13 @@ I am a passionate and driven web developer with a focus on MERN stack developmen
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React, MERN Stack.
 - 📫 How to reach me chavanswapnil822@gmail.com
 <br/>
+
+<h3>GitHub Profile Trophy</h3>
+
+   <p align="center" style='margin: 8px 4px;'>
+    <img src="https://github-profile-trophy.vercel.app/?username=swapnilchavan13&theme=onedark" alt="swapnil" />
+</p>
+
 <h3>Programming languages</h3>
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -44,6 +51,11 @@ I am a passionate and driven web developer with a focus on MERN stack developmen
   
 <h3>My Contributions</h3> 
 
+
+   <p align="center" style='margin: 8px 4px;'>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swapnilchavan13&theme=dracula" alt="swapnil" />
+</p>
+
 <p align="center" style='margin: 8px 4px;'>
     <img src="https://github-readme-stats.vercel.app/api?username=swapnilchavan13&show_icons=true&locale=en&theme=gruvbox" alt="swapnil" />
 </p>
@@ -51,4 +63,6 @@ I am a passionate and driven web developer with a focus on MERN stack developmen
 <p align="center" style='margin: 8px 4px;'>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=swapnilchavan13&theme=gruvbox" alt="swapnil" />
 </p>
+
+
 
