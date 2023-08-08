@@ -26,7 +26,7 @@ I am a passionate and driven web developer with a focus on MERN stack developmen
 <p align="left">
 <a href="https://twitter.com/sw_apnil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sw_apnil" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/swapnil-chavan-951103230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/swapnil-chavan-951103230/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/swapnil_l/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="swapnil_l" height="30" width="40" /></a>
+<a href="https://instagram.com/swapnil_l/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="swapnil_l" height="30" width="40" /></a>
 </p>
 
 <h3>GitHub Profile Trophy</h3>
