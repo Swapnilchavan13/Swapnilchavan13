@@ -16,7 +16,7 @@ I am a passionate and driven web developer with a focus on MERN stack developmen
    Full stack developer with experience in developing full-stack web applications using </br>
    MongoDB, Express, React, and Node.js.
 </h3>
--<img src="https://www.approvedcourse.com/wp-content/uploads/2021/06/Full-Stack-Developer.png" />
+-<img src="https://media.licdn.com/dms/image/D4D12AQE1ioPOFoNVCw/article-cover_image-shrink_600_2000/0/1679083748046?e=2147483647&v=beta&t=6pAfb6fO3GI0uXsLmzKqlZNtlv8FZrswVQODH-prBvY" />
     
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React, MERN Stack.
 - 📫 How to reach me chavanswapnil822@gmail.com
