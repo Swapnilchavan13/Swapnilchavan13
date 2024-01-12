@@ -1,6 +1,7 @@
 <h1 align="center">
     Hi <img src='https://github.com/UtkarshPathrabe/UtkarshPathrabe/blob/main/assets/wave.gif?raw=true' height='26' alt='there'>, I'm Swapnil Chavan </br> 
-  <a href="url"><img src="https://cdna.artstation.com/p/assets/images/images/029/049/266/original/ricardo-braga-typing.gif?1596300272" height="200" width="250" style="border-radius:30%"></a>
+  <a href="url"><img src="https://cdn.dribbble.com/users/1299339/screenshots/2972130/hello_world.gif" alt="Hello World" height="200" width="350" style="border-radius: 20%;">
+</a>
 </h1>
  <h2 align="center">Full Stack Web Developer</h2>
  <h3 align="center">
