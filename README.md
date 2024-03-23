@@ -5,7 +5,9 @@
 </h1>
  <h2 align="center">Full Stack Web Developer</h2>
  <h3 align="center">
-I am a passionate and driven web developer with a focus on MERN stack development. I have completed my Full-stack web development cource in Masai School and have a solid foundation in web development concepts and practices. During my course, I have honed my skills in JavaScript, MongoDB, Express, React, and Node.js and am confident in my ability to build scalable and efficient web applications. I am a quick learner, detail-oriented, and always strive to produce high-quality work. I am excited to start my career as a MERN full stack web developer and look forward to the opportunity to bring my skills and passion to your team.
+I am a passionate and driven web developer with a focus on MERN stack development. I completed my Full-stack web development course at Masai School, where I acquired a solid foundation in web development concepts and practices. During my training, I honed my skills in JavaScript, MongoDB, Express, React, and Node.js, and I am confident in my ability to build scalable and efficient web applications. I am a quick learner, detail-oriented, and always strive to produce high-quality work.
+
+Currently, I am working as a full stack web developer at GreyOwl Barnstorm Private Limited, where I am responsible for handling projects solo. This experience has further strengthened my expertise and provided me with valuable insights into real-world application development scenarios. I am excited about the opportunity to contribute my skills and passion to your team and to continue growing as a MERN stack developer.
 </h3>
  
  <h3 align='center' style='margin: 16px 4px;'>
