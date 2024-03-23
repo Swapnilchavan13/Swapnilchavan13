@@ -5,9 +5,7 @@
 </h1>
  <h2 align="center">Full Stack Web Developer</h2>
  <h3 align="center">
-I am a passionate and driven web developer with a focus on MERN stack development. I completed my Full-stack web development course at Masai School, where I acquired a solid foundation in web development concepts and practices. During my training, I honed my skills in JavaScript, MongoDB, Express, React, and Node.js, and I am confident in my ability to build scalable and efficient web applications. I am a quick learner, detail-oriented, and always strive to produce high-quality work.
-
-Currently, I am working as a full stack web developer at GreyOwl Barnstorm Private Limited, where I am responsible for handling projects solo. This experience has further strengthened my expertise and provided me with valuable insights into real-world application development scenarios. I am excited about the opportunity to contribute my skills and passion to your team and to continue growing as a MERN stack developer.
+I am a passionate and driven web developer with a focus on MERN stack development. I completed my Full-stack web development course at Masai School, where I acquired a solid foundation in web development concepts and practices. During my training, I honed my skills in JavaScript, MongoDB, Express, React, and Node.js, and I am confident in my ability to build scalable and efficient web applications. I am a quick learner, detail-oriented, and always strive to produce high-quality work.<br><br>Currently, I am working as a full stack web developer at GreyOwl Barnstorm Private Limited, where I am responsible for handling projects solo. This experience has further strengthened my expertise and provided me with valuable insights into real-world application development scenarios. I am excited about the opportunity to contribute my skills and passion to your team and to continue growing as a MERN stack developer.
 </h3>
  
  <h3 align='center' style='margin: 16px 4px;'>
